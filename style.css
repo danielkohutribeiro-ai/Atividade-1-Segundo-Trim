@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    color: darkgreen
+
+}
+h2 {
+    text-align: center;
+    color: darkblue
+}
+p {
+    margin: 0 auto;
+    align-items: center;
+}
+img {
+    width: 554px;
+    border: 3px;
+    display: flex;
+    margin: 0 auto
+
+}
